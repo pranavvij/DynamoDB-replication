@@ -1,0 +1,4 @@
+#Fri May 10 11:44:33 EDT 2019
+base.0=/Users/pranavvij/Desktop/Distributed Systems Steve Ko/Project 4/SimpleDynamo/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
